@@ -1,5 +1,5 @@
 import {GoFile, GoNote, GoGraph} from 'react-icons/go';
-import { Container } from '../Button/styles';
+import {Container} from './styles';
 
 export function Summary (){
     return(
